@@ -11,8 +11,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://maxkaiser100.github.io/Sunnyside-Agency/
+- Solution URL: https://github.com/maxkaiser100/sunnyside.git
+- Live Site URL: https://maxkaiser100.github.io/sunnyside/
 
 ## My process
 
